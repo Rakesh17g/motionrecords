@@ -2,7 +2,7 @@
 
 Welcome to **MotionRecords** — a sleek and modern marketing agency website built to showcase services, campaigns, and client success stories. This site is fully responsive and designed to provide an engaging user experience across all devices.
 
-![MotionRecords Banner](marketing.PNG)
+![MotionRecords Banner](marketing.png)
 
 ## 🌐 Live Site
 
